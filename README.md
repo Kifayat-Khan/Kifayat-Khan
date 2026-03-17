@@ -25,11 +25,21 @@ Welcome to my GitHub profile! I specialize in building robust mobile and web app
 
 ## 🔥 Featured Projects
 
-- [TaxHisaab App](https://github.com/techroof/TaxHisaabAdmin)  
-  *A comprehensive tax calculation tool for businesses and individuals.*
+- [Housing Scheme Management System](https://github.com/techroof/gulberg_property)
+  *A complete property management system for handling plots, dealers, customer records, file management, payment plans, registration numbers, and staff operations.*
 
-- **Property Management Web App**  
-  *A scalable platform for managing rental properties and real estate operations.*
+- [Hypnotherapy App](https://github.com/techroof/MindPowerAdmin)
+  *A wellness app offering guided hypnotherapy sessions for better sleep, stress relief, anxiety reduction, progress tracking, and subscription-based access.*
+
+- [Routiner](https://github.com/Kifayat-Khan/routiner)
+  *A habit-building and challenge management app that helps users create routines, join challenges, track activities, and stay consistent with personal goals.*
+
+- [Tax Hisaab App](https://github.com/techroof/TaxHisaabApp)
+  *A tax services app that simplifies personal and business tax filing with tools for NTN registration, GST registration, tax calculation, profile updates, and tax-saving guidance.*
+
+- [Tax Hisaab Admin Panel](https://github.com/techroof/TaxHisaabAdmin)
+  *An admin dashboard for managing users, tax consultants, submissions, task assignments, documents, permissions, billing, and filing workflows in one place.*
+
 
 - [Architectural Component System](https://github.com/Kifayat-Khan/architectural_component_system)  
   *A modular system for building maintainable software architectures.*
